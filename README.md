@@ -1,5 +1,6 @@
 # Ejemplo Parcial Práctico 1
-
+NOMBRE JOSEF ALFEREZ GARCIA
+CÓDIGO: 202317078
 ## Instrucciones
 
 1. Haga un _fork_ de este repositorio
